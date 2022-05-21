@@ -2,6 +2,8 @@
 
 
 <em><h3> Now, I'm trying to be a QA tester. </h3></em>
+  <h4>🌱 I'm currently studying ISTQB</h4>
+
 <br>
 <h3>My tech stack 📚</h3>
 <a href= "https://www.python.org"><img src ="https://img.shields.io/badge/-Python-3776AB?&style=flat-for-the-badge&logo=Python&logoColor=white"/></a>
@@ -41,21 +43,12 @@
 <img alt="commit-activity" src ="https://img.shields.io/github/commit-activity/w/KangHoi/KangHoi.github.io"/>
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/KangHoi/KangHoi.github.io"/>
 
+  
+  
+  
+---
+  <p align="center">
+<img alt="github-follow" src="https://img.shields.io/github/followers/KangHoi?style=social"/>
+  </p>
 
 
-
-
-<!--
-**KangHoi/KangHoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
