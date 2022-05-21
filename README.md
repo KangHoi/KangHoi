@@ -1,8 +1,9 @@
 # Nice to see you! 👋
+### "Assurance to be Accelarator"
 
-
-<em><h3> Now, I'm trying to be a QA tester. </h3></em>
-  <h4>🌱 I'm currently studying ISTQB</h4>
+<em><h5> 🌱  Now, I'm trying to be a QA tester, and currently studying ISTQB </h5></em>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangHoi)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <h3>My tech stack 📚</h3>
@@ -44,11 +45,11 @@
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/KangHoi/KangHoi.github.io"/>
 
   
-  
+
   
 ---
   <p align="center">
-<img alt="github-follow" src="https://img.shields.io/github/followers/KangHoi?style=social"/>
-  </p>
-
+    📫 Contacts <br><br>
+<p align="center">
+  <a href="https://KangHoi.github.io"><img src="https://img.shields.io/badge/My tech blog-9cf?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://KangHoi.github.io/"/></a>  <a href="mailto:assurancetobeaccelarator@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:assurancetobeaccelarator@gmail.com"/></a></p>
 
