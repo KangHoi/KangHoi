@@ -11,6 +11,8 @@
 <a href= "https://www.python.org">
 <img alt="Java" src ="https://img.shields.io/badge/-Java-007396?&style=flat-for-the-badge&logo=Java&logoColor=white"/></a>
 <a href="https://www.r-project.org/">
+<img alt="Jest" src ="https://img.shields.io/badge/-Jest-C21325?&style=flat-for-the-badge&logo=Jest&logoColor=white"/></a>
+<a href="https://jestjs.io/">
 <img alt="R" src ="https://img.shields.io/badge/-R-276DC3?&style=flat-for-the-badge&logo=R&logoColor=white"/></a>
 <a href="https://vuejs.org/"><img alt="Vue" src ="https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-for-the-badge&logo=Vue.js&logoColor=white"/>
 </a>
